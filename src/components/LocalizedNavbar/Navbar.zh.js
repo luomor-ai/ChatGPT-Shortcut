@@ -7,7 +7,7 @@ const zhNavbar = {
   },
   items: [
     {
-      to: "https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html",
+      to: "https://note.luomor.com/posts/2023-02-27-chatgpt_shortcuts.html",
       label: "ChatGPT Shortcut 原理说明",
       position: "left",
     },
