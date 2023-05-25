@@ -17,24 +17,8 @@ const zhNavbar = {
       position: 'left',
       items: [
         {
-          label: "Chrome 扩展版",
-          href: "https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj",
-        },
-        {
-          label: 'IMGPrompt',
-          href: 'https://prompt.newzone.top/',
-        },
-        {
-          label: '文字处理',
-          href: 'https://tools.newzone.top/',
-        },
-        {
           label: '工具收藏',
-          href: 'https://nav.newzone.top',
-        },
-        {
-          label: 'Find on Product Hunt',
-          href: 'https://www.producthunt.com/posts/chatgpt-shortcut?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut',
+          href: 'https://nav-web.luomor.com/',
         },
       ],
     },
@@ -45,12 +29,12 @@ const zhNavbar = {
     },
     { type: "localeDropdown", position: "right" },
     {
-      href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+      href: "https://github.com/luomor-ai/ChatGPT-Shortcut",
       position: "right",
       className: "header-github-link",
     },
     {
-      href: "https://discord.gg/PZTQfJ4GjX",
+      href: "https://discord.gg/FmPjRqqn",
       position: "right",
       className: "header-discord-link",
     },
